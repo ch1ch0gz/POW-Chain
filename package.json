@@ -1,0 +1,23 @@
+{
+  "name": "pow-chain",
+  "version": "1.0.0",
+  "description": "This is going to be my first attempt on writing a project on Javascript using a client server and a server. Also committing from terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch1ch0gz/POW-Chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch1ch0gz/POW-Chain/issues"
+  },
+  "homepage": "https://github.com/ch1ch0gz/POW-Chain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
